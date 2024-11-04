@@ -1,0 +1,5 @@
+1;campana;12;18
+2;pilar;13;20
+3;caba;3;15
+4;junin;23;3
+5;escobar;10;19

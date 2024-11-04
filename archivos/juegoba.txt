@@ -1,0 +1,8 @@
+jorge;1651313;pilar;futbol;21;h
+perez;1651313;pilar;futbol;35;h
+marta;1651313;pilar;futbol;15;m
+jorge;1651313;pilar;paintball;41;h
+jorge;1651313;pilar;paintball;15;m
+jorge;1651313;pilar;tiro;21;h
+jorge;1651313;pilar;tiro;59;m
+jorge;1651313;pilar;tiro;15;h

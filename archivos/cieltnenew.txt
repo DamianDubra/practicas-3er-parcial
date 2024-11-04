@@ -1,0 +1,2 @@
+1;Juan Perez;30;Buenos Aires
+4;María García;35;Mendoza
